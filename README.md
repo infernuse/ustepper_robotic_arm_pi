@@ -17,4 +17,4 @@ Pi which running robotic arm program is provides TCP/IP remote control features.
 
 ## Requirements
 - Raspberry Pi (2/3/Zero)
-- Touch display (All kinds of gadgets are available as long as it has 800x400 resolution.)- 
+- Touch display (All kinds of gadgets are available as long as it has 800x480 resolution) 
